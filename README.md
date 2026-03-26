@@ -1,5 +1,4 @@
-# 4d-example-modernbert-embed-es-legal
-ModernBERT Embed ES Legal for GGUF, ONNX
+## [wilfredomartel/modernbert-embed-es-legal-v2](https://huggingface.co/wilfredomartel/modernbert-embed-es-legal-v2)
 
 ```4d
 var $AIClient : cs.AIKit.OpenAI
@@ -25,4 +24,4 @@ $cosineSimilarity:=$es1.cosineSimilarity($es2)
 
 ||llama.cpp `Q8_0`|ONNX Runtime `Int8`|
 |-|:-|:-|
-|🇪🇸|`0.5320806862869`|`0.5320806862869`|
+|🇪🇸|`0.3719723220476`|`0.3719723220476`|
