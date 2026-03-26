@@ -25,4 +25,4 @@ $cosineSimilarity:=$es1.cosineSimilarity($es2)
 
 ||llama.cpp `Q8_0`|ONNX Runtime `Int8`|
 |-|:-|:-|
-|🇪🇸|`0.5320806862869`|`0.5320806862869`|
+|🇪🇸|`0.3719723220476`|`0.3719723220476`|
