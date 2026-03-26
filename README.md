@@ -1,5 +1,4 @@
-# 4d-example-modernbert-embed-es-legal
-ModernBERT Embed ES Legal for GGUF, ONNX
+## [wilfredomartel/modernbert-embed-es-legal-v2](https://huggingface.co/wilfredomartel/modernbert-embed-es-legal-v2)
 
 ```4d
 var $AIClient : cs.AIKit.OpenAI
